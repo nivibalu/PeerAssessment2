@@ -370,7 +370,7 @@ grid.arrange(gg.injuries,gg.mid,gg.fatalities,
              main=paste("Aggregated human injuries & fatalities for weather events from ",cutOffYear," to ",endYear, sep=""))
 ```
 
-![plot of chunk unnamed-chunk-12](./stormDataAnalysis_files/figure-html/unnamed-chunk-12.png) 
+![plot of chunk unnamed-chunk-12](unnamed-chunk-12.png) 
 
 The underlying data
 
