@@ -1,6 +1,7 @@
 # Analysis of impact, both economic as victims, of different weather events in the USA based on the NOAA Storm Database
 
 By Nivi Balu
+
 Date: 06-03-2016
 
 ## Reproducible Research: Peer Assessment 2
