@@ -407,7 +407,7 @@ ggplot(meltSumEconomicDamage, aes(x=damageSource, y=damage/1000000)) +
   ggtitle(paste("Aggregated property and crop damage for weather events from ",cutOffYear," to ",endYear, sep=""))
 ```
 
-![plot of chunk unnamed-chunk-14](./stormDataAnalysis/unnamed-chunk-14.png) 
+![plot of chunk unnamed-chunk-14](unnamed-chunk-14.png) 
 
 The underlying data
 
